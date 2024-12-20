@@ -1,5 +1,5 @@
 
-# Backend Auth Project
+# Backend Project
 
 Este proyecto es una aplicación backend que gestiona la autenticación y autorización de usuarios, utilizando JWT (JSON Web Tokens) para la seguridad. El proyecto está estructurado con Express.js, MongoDB y Mongoose, y ofrece un sistema de registro, inicio de sesión y gestión de productos. La aplicación también incluye una API RESTful documentada con OpenAPI (Swagger).
 
